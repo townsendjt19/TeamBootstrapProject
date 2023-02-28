@@ -1,0 +1,21 @@
+.firstBlock {
+    text-align: center;
+    border-block: solid hidden;
+    block-size:350px;
+    background-color: #0c63ff;
+    color: white;
+    font:'Sans Serif';
+    font-size:16px;
+    padding-top:65px;
+    
+}
+h1{
+    padding-bottom:25px;
+}
+ #secondBlock{
+     padding-top:100px;
+ }
+ 
+ #firstBlock{
+     padding-top:100px;
+ }
